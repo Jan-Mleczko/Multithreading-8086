@@ -16,4 +16,4 @@ Projekt ten będzie rozwijany, jako że jest jeszcze wiele do dodania, np. możl
 
 ## A multithreading engine working on the i8086 and compatible, i. e. the whole x86 CPU family
 
-The whole program, the multithreading engine and the main code that uses it, are contained in a single DOS executable.
+The whole program, the multithreading engine and the main code that uses it, are contained in a single DOS executable. The assembly language syntax is meant to be assembled with the Flat Assembler.
